@@ -9,6 +9,7 @@ versicolor, virginica) using the one-vs-all format, the kernel only works as bin
 classification. Identify the proposal with the lowest number of qubits and depth to obtain
 higher accuracy. You can use the UU† format or using the Swap-Test.
 
+**NOTE: Refer the  *qml_qsvm_notes.pdf*   in the same github repo for my handwritten notes. The content of the pdf is part of my Quantum Machine Learning notes, originally taken from Qiskit Summer School 2021 lectures. It's purpose is to given an idea to the mentors of my current understanding of QML and QSVM in particular. I have reproduced my handwritten notes as pdf specifically for this purpose.**
 
 # **Quantum Kernels and Support Vector Machines**
 
